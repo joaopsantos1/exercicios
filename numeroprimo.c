@@ -11,11 +11,11 @@ int main()
         }        
     }
     if(b == 1 || cont>2){
-        printf("NUMERO NÃO PRIMO", b);
+        printf("NUMERO NÃO PRIMO");
         
     }
     else{
-        printf("NÚMERO PRIMO", b);
+        printf("NÚMERO PRIMO");
     }
 
     return 0;
